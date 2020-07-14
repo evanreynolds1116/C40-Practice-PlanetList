@@ -26,7 +26,7 @@ planet_list.append("Pluto")
 print(f'{planet_list}')
 
 # Now that all the planets are in the list, slice the list in order to get the rocky planets into a new list called rocky_planets.
-rocky_planets = planet_list[:3]
+rocky_planets = planet_list[:4]
 
 print(f'{rocky_planets}')
 
